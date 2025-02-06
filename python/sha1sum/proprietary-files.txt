@@ -1,0 +1,10 @@
+vendor/firmware/CAMERA_ICP.b20:odm/firmware/CAMERA_ICP.b20|a524b53dc0e6898c070752d07c82e6e7f081ae7b
+vendor/firmware/CAMERA_ICP.mbn:odm/firmware/CAMERA_ICP.mbn|2c103f54af48a6ec9cc02e4b3b23ba3065f6a9d9
+vendor/firmware/CAMERA_ICP.mdt:odm/firmware/CAMERA_ICP.mdt|59a2315ea77aedc0926b31b356ad5cbae5261950
+vendor/firmware/a740_zap.b02:odm/firmware/a740_zap.b02|8c049bc66ec35d93a8ab777b6ca38557074f2bfc
+vendor/firmware/a740_zap.mbn:odm/firmware/a740_zap.mbn|4b8e64b532e1d0364abb83e3ee8393094dd44561
+vendor/firmware/a740_zap.mdt:odm/firmware/a740_zap.mdt|06a6e8b90261d0e353ebd30e5fafaa52df038d7b
+vendor/firmware/evass.b19:odm/firmware/evass.b19|b6404aeb1e59b4c629e229ac4c14db147ea36ebb
+vendor/firmware/evass.mbn:odm/firmware/evass.mbn|261026a3248cdc4894a5ad3f0184423e9103b9c2
+vendor/firmware/evass.mdt:odm/firmware/evass.mdt|e292735b78f7c054a48cb4ef729c3d2d9d0b80d2
+vendor/firmware/vpu30_4v.mbn:odm/firmware/vpu30_4v.mbn|df08facc0470bb0d1a387f3fea7bac8bb3d22968
